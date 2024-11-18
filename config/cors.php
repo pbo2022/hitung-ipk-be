@@ -19,7 +19,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['https://hitung-ipk-fe-2vxx.vercel.app/'],
+    'allowed_origins' => ['*'],
 
     'allowed_origins_patterns' => [],
 
